@@ -1,56 +1,56 @@
-print("Ashutosh is my name")
-print("Hello")
-print("Ashutosh is my name.","Hello World.")
-print(20)
-print(23+13)
+# print("Ashutosh is my name")
+# print("Hello")
+# print("Ashutosh is my name.","Hello World.")
+# print(20)
+# print(23+13)
 
-name = "Ashutosh"
-age = 20
-price = 20.99
-print(name, age, price)
-print("My name is : ",name)
-print("My age is : ",age)
+# name = "Ashutosh"
+# age = 20
+# price = 20.99
+# print(name, age, price)
+# print("My name is : ",name)
+# print("My age is : ",age)
 
-age2 = age
-print(age2)
+# age2 = age
+# print(age2)
 
-print(type(name))
-print(type(age))
-print(type(price))
+# print(type(name))
+# print(type(age))
+# print(type(price))
 
-name1 = "Techie Ashutosh"
-name2 = 'Techie Ashutosh'
-name3 = '''Techie Ashutosh'''
-print(name1)
-print(name2)
-print(name3)
+# name1 = "Techie Ashutosh"
+# name2 = 'Techie Ashutosh'
+# name3 = '''Techie Ashutosh'''
+# print(name1)
+# print(name2)
+# print(name3)
 
-a = False
-b = None
-c = True
-print(type(a))
-print(type(b))
-print(type(c))
+# a = False
+# b = None
+# c = True
+# print(type(a))
+# print(type(b))
+# print(type(c))
 
-a = 2
-b = 5
-sum = a + b
-print(sum)
-sum = a - b
-print(sum)
-sum = a * b
-print(sum)
-sum = a / b
-print(sum)
+# a = 2
+# b = 5
+# sum = a + b
+# print(sum)
+# sum = a - b
+# print(sum)
+# sum = a * b
+# print(sum)
+# sum = a / b
+# print(sum)
 
-#Single line comment
-print("Single line comment")
+# #Single line comment
+# print("Single line comment")
 
-"""
-Multi-line comment
-This is a multi-line comment
-"""
-print("Multi-line comment")
+# """
+# Multi-line comment
+# This is a multi-line comment
+# """
+# print("Multi-line comment")
 
 # name4 = input("Name : ")
 # print(name4)
@@ -68,7 +68,11 @@ print("Multi-line comment")
 # else:
 #     print("go")
 
+# #Ternary operator 
+# food = input("food : ")
+# eat = "yes" if food == "cake" else "no"
+# print(eat)
+
 #Ternary operator 
-food = input("food : ")
-eat = "yes" if food == "cake" else "no"
-print(eat)
+
+
